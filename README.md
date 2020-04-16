@@ -2,11 +2,11 @@
 This is a lightweight and a simple extension that shows you the battery percentage of your JioFi 2 device, and that's it! I wrote the extension in a rush, so report your issues if you find any.
 
 ###### How the extension looks like
-![Screenshot](screenshots/img1)
-![Screenshot](screenshots/img2)
+![Screenshot](JioFi-2-lightweight-chrome-extension/screenshots/img1.png)
+![Screenshot](JioFi-2-lightweight-chrome-extension/screenshots/img2.png)
 
 If you are disconnected from the Jio Fi network, the badge changes to "NA"
-![Screenshot](screenshots/img3)
+![Screenshot](JioFi-2-lightweight-chrome-extension/screenshots/img2.png)
 
 ###### How to load the extension
 - Download this extension by clicking clone/download and downloading the zip file,
