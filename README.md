@@ -10,10 +10,11 @@ If you are disconnected from the Jio Fi network, the badge changes to "NA"
 
 ## How to load the extension
 - Download this extension by clicking clone/download and downloading the zip file,
+- Unzip the file "JioFi-2-lightweight-chrome-extension" you downloaded
 - Go to `chrome://extensions` or More Tools > Extensions and enable "developer mode" on the top right,
-- Click "Load unpacked" on the top left and locate the extension you have downloaded from the explorer,
-- Go to "chrome-x" directory and select "JioFi-2 battery status chrome extension" directory,
-and add it.
+- Click "Load unpacked" on the top left and locate the folder you have unzipped
+- Go into the unzipped folder and select the folder "JioFi-2 battery status chrome extension"
+- click done/open, now this enable the extension
 
 ## How to wake up the extension
 One you have loaded and enabled the extension from the above step, click on the extension's icon, this will wake up the extension.
