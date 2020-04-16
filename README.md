@@ -1,5 +1,5 @@
 # JioFi 2 Battery Status extension for Chrome browser
-This is a lightweight and a simple extension that shows you the battery percentage of your JioFi 2 device, and that's it! I wrote the extension in a rush, so report your issues if you find any.
+There's a lot of room for improvement with this code I've written in a rush, so please report your issues/my bad code by raising a new issue.
 
 ## How the extension looks like
 ![Screenshot](https://raw.githubusercontent.com/phnsh/JioFi-2-lightweight-chrome-extension/master/screenshots/img1.png)
@@ -10,13 +10,13 @@ If you are disconnected from the Jio Fi network, the badge changes to "NA"
 
 ## How to load the extension
 - Download this extension by clicking clone/download and downloading the zip file,
-- Unzip the file "JioFi-2-lightweight-chrome-extension" you downloaded
+- Unzip the file "JioFi-2-lightweight-chrome-extension.zip" you downloaded,
 - Go to `chrome://extensions` or More Tools > Extensions and enable "developer mode" on the top right,
-- Click "Load unpacked" on the top left and locate the folder you have unzipped
-- Go into the unzipped folder and select the folder "JioFi-2 battery status chrome extension"
+- Click "Load unpacked" on the top left and locate the folder you have unzipped,
+- Go into the unzipped folder and select the folder "JioFi-2 battery status chrome extension",
 - click done/open, now this enable the extension
 
 ## How to wake up the extension
-One you have loaded and enabled the extension from the above step, click on the extension's icon, this will wake up the extension.
-If you disconnect from the network, the text on the icon will read "NA",
+- Once you have loaded and enabled the extension from the above step, click on the extension's icon, this will wake up the extension.
+- If you disconnect from the network, the text on the icon will read "NA",
 once you re-join the network, click on it again to wake it up.
