@@ -17,6 +17,6 @@ If you are disconnected from the Jio Fi network, the badge changes to "NA"
 - click done/open, now this enable the extension
 
 ## How to wake up the extension
-- Once you have loaded and enabled the extension from the above step, click on the extension's icon, this will wake up the extension.
+- Once you have loaded and enabled the extension from the above step, the extension will start automatically.
 - If you disconnect from the network, the text on the icon will read "NA",
-once you re-join the network, click on it again to wake it up.
+once you re-join the Jio-Fi network, it will show the details again.

@@ -1,6 +1,6 @@
   {
     "name": "JioFi-2 Battery Status",
-    "version": "1.0",
+    "version": "1.0.1",
     "description": "Displays the current battery percentage of your JioFi 2",
     "manifest_version": 2,
     "permissions": ["activeTab", "declarativeContent", "storage", "http://jiofi.local.html/mark_title.w.xml"],
